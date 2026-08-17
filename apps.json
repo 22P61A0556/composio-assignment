@@ -1,0 +1,402 @@
+[
+  {
+    "name": "HubSpot",
+    "url": "https://developers.hubspot.com"
+  },
+  {
+    "name": "Slack",
+    "url": "https://api.slack.com"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://docs.github.com"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com/docs"
+  },
+  {
+    "name": "Notion",
+    "url": "https://developers.notion.com"
+  },
+  {
+    "name": "Salesforce",
+    "url": "https://developer.salesforce.com"
+  },
+  {
+    "name": "Jira",
+    "url": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/"
+  },
+  {
+    "name": "Confluence",
+    "url": "https://developer.atlassian.com/cloud/confluence/rest/v2/intro/"
+  },
+  {
+    "name": "Trello",
+    "url": "https://developer.atlassian.com/cloud/trello/"
+  },
+  {
+    "name": "Linear",
+    "url": "https://developers.linear.app/docs"
+  },
+  {
+    "name": "Asana",
+    "url": "https://developers.asana.com"
+  },
+  {
+    "name": "Airtable",
+    "url": "https://airtable.com/developers/web/api"
+  },
+  {
+    "name": "Monday",
+    "url": "https://developer.monday.com/api-reference"
+  },
+  {
+    "name": "ClickUp",
+    "url": "https://clickup.com/api"
+  },
+  {
+    "name": "Zendesk",
+    "url": "https://developer.zendesk.com"
+  },
+  {
+    "name": "Intercom",
+    "url": "https://developers.intercom.com"
+  },
+  {
+    "name": "Freshdesk",
+    "url": "https://developers.freshdesk.com"
+  },
+  {
+    "name": "Twilio",
+    "url": "https://www.twilio.com/docs"
+  },
+  {
+    "name": "SendGrid",
+    "url": "https://www.twilio.com/docs/sendgrid"
+  },
+  {
+    "name": "Mailchimp",
+    "url": "https://mailchimp.com/developer/"
+  },
+  {
+    "name": "Marketo",
+    "url": "https://developers.marketo.com"
+  },
+  {
+    "name": "Pardot",
+    "url": "https://developer.salesforce.com/docs/marketing/pardot/overview"
+  },
+  {
+    "name": "Typeform",
+    "url": "https://developer.typeform.com"
+  },
+  {
+    "name": "SurveyMonkey",
+    "url": "https://developer.surveymonkey.com"
+  },
+  {
+    "name": "Qualtrics",
+    "url": "https://api.qualtrics.com"
+  },
+  {
+    "name": "Dropbox",
+    "url": "https://www.dropbox.com/developers"
+  },
+  {
+    "name": "Google Drive",
+    "url": "https://developers.google.com/drive/api"
+  },
+  {
+    "name": "OneDrive",
+    "url": "https://learn.microsoft.com/en-us/graph/overview?view=graph-rest-1.0"
+  },
+  {
+    "name": "Box",
+    "url": "https://developer.box.com"
+  },
+  {
+    "name": "Google Calendar",
+    "url": "https://developers.google.com/calendar/api"
+  },
+  {
+    "name": "Microsoft Outlook",
+    "url": "https://learn.microsoft.com/en-us/graph/overview"
+  },
+  {
+    "name": "Zoom",
+    "url": "https://developers.zoom.us"
+  },
+  {
+    "name": "Google Meet",
+    "url": "https://developers.google.com/meet"
+  },
+  {
+    "name": "Microsoft Teams",
+    "url": "https://learn.microsoft.com/en-us/microsoftteams/platform/"
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com/developers/docs"
+  },
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com/developers"
+  },
+  {
+    "name": "Miro",
+    "url": "https://developers.miro.com"
+  },
+  {
+    "name": "Canva",
+    "url": "https://www.canva.com/developers"
+  },
+  {
+    "name": "Shopify",
+    "url": "https://shopify.dev/docs/api"
+  },
+  {
+    "name": "WooCommerce",
+    "url": "https://woocommerce.com/documentation/woocommerce-rest-api/"
+  },
+  {
+    "name": "BigCommerce",
+    "url": "https://developer.bigcommerce.com"
+  },
+  {
+    "name": "PayPal",
+    "url": "https://developer.paypal.com/docs"
+  },
+  {
+    "name": "Square",
+    "url": "https://developer.squareup.com/docs"
+  },
+  {
+    "name": "Plaid",
+    "url": "https://plaid.com/docs"
+  },
+  {
+    "name": "QuickBooks",
+    "url": "https://developer.intuit.com/app/developer/qbo/docs/api/accounting"
+  },
+  {
+    "name": "Xero",
+    "url": "https://developer.xero.com/"
+  },
+  {
+    "name": "FreshBooks",
+    "url": "https://www.freshbooks.com/api"
+  },
+  {
+    "name": "BambooHR",
+    "url": "https://documentation.bamboohr.com"
+  },
+  {
+    "name": "Lever",
+    "url": "https://hire.lever.co/developers"
+  },
+  {
+    "name": "Greenhouse",
+    "url": "https://developers.greenhouse.io/"
+  },
+  {
+    "name": "Workable",
+    "url": "https://workable.com/api"
+  },
+  {
+    "name": "MongoDB Atlas",
+    "url": "https://www.mongodb.com/docs/atlas/"
+  },
+  {
+    "name": "Snowflake",
+    "url": "https://docs.snowflake.com/en/developer-guide"
+  },
+  {
+    "name": "BigQuery",
+    "url": "https://cloud.google.com/bigquery/docs"
+  },
+  {
+    "name": "PostHog",
+    "url": "https://posthog.com/docs/libraries"
+  },
+  {
+    "name": "Mixpanel",
+    "url": "https://developer.mixpanel.com"
+  },
+  {
+    "name": "Amplitude",
+    "url": "https://www.docs.developers.amplitude.com"
+  },
+  {
+    "name": "Segment",
+    "url": "https://segment.com/docs"
+  },
+  {
+    "name": "Heap",
+    "url": "https://developers.heap.io"
+  },
+  {
+    "name": "Hotjar",
+    "url": "https://help.hotjar.com/hc/en-us/categories/115000012788-API"
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com/docs"
+  },
+  {
+    "name": "Netlify",
+    "url": "https://docs.netlify.com"
+  },
+  {
+    "name": "Heroku",
+    "url": "https://devcenter.heroku.com"
+  },
+  {
+    "name": "GitLab",
+    "url": "https://docs.gitlab.com"
+  },
+  {
+    "name": "Bitbucket",
+    "url": "https://developer.atlassian.com/cloud/bitbucket/rest/intro/"
+  },
+  {
+    "name": "Docker Hub",
+    "url": "https://docs.docker.com/docker-hub/api/latest/"
+  },
+  {
+    "name": "npm",
+    "url": "https://docs.npmjs.com"
+  },
+  {
+    "name": "PyPI",
+    "url": "https://warehouse.pypa.io/"
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/docs/hub/en/api"
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://platform.openai.com/docs"
+  },
+  {
+    "name": "Anthropic",
+    "url": "https://docs.anthropic.com/en/api"
+  },
+  {
+    "name": "Perplexity",
+    "url": "https://docs.perplexity.ai"
+  },
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com/developer/documentation"
+  },
+  {
+    "name": "Make",
+    "url": "https://www.make.com/en/api-documentation"
+  },
+  {
+    "name": "Retool",
+    "url": "https://docs.retool.com"
+  },
+  {
+    "name": "Supabase",
+    "url": "https://supabase.com/docs/guides/api"
+  },
+  {
+    "name": "Google Sheets",
+    "url": "https://developers.google.com/sheets/api"
+  },
+  {
+    "name": "Salesloft",
+    "url": "https://developers.salesloft.com"
+  },
+  {
+    "name": "Outreach",
+    "url": "https://api.outreach.io/docs/"
+  },
+  {
+    "name": "Datadog",
+    "url": "https://docs.datadoghq.com/api/"
+  },
+  {
+    "name": "PagerDuty",
+    "url": "https://developer.pagerduty.com/docs/"
+  },
+  {
+    "name": "ServiceNow",
+    "url": "https://developer.servicenow.com/dev.do/"
+  },
+  {
+    "name": "Klaviyo",
+    "url": "https://developers.klaviyo.com/"
+  },
+  {
+    "name": "Brex",
+    "url": "https://developer.brex.com/"
+  },
+  {
+    "name": "Chargebee",
+    "url": "https://www.chargebee.com/docs/2.0/"
+  },
+  {
+    "name": "Coda",
+    "url": "https://coda.io/developers"
+  },
+  {
+    "name": "DocuSign",
+    "url": "https://developers.docusign.com/"
+  },
+  {
+    "name": "Adobe Sign",
+    "url": "https://developer.adobe.com/document-services/docs/overview/"
+  },
+  {
+    "name": "Jotform",
+    "url": "https://www.jotform.com/developers/"
+  },
+  {
+    "name": "Braintree",
+    "url": "https://developer.paypal.com/braintree/docs"
+  },
+  {
+    "name": "Pipedrive",
+    "url": "https://developers.pipedrive.com/docs/api/v1"
+  },
+  {
+    "name": "Calendly",
+    "url": "https://developer.calendly.com/"
+  },
+  {
+    "name": "Apollo",
+    "url": "https://www.apollo.io/developers"
+  },
+  {
+    "name": "PandaDoc",
+    "url": "https://developers.pandadoc.com/"
+  },
+  {
+    "name": "Gong",
+    "url": "https://developer.gong.io/"
+  },
+  {
+    "name": "Hootsuite",
+    "url": "https://developer.hootsuite.com/"
+  },
+  {
+    "name": "Buffer",
+    "url": "https://buf.io/"
+  },
+  {
+    "name": "RingCentral",
+    "url": "https://developers.ringcentral.com/"
+  },
+  {
+    "name": "Wix",
+    "url": "https://dev.wix.com/"
+  },
+  {
+    "name": "Cvent",
+    "url": "https://developer.cvent.com/"
+  }
+]

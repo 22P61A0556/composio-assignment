@@ -1,0 +1,2466 @@
+[
+  {
+    "name": "HubSpot",
+    "website": "https://developers.hubspot.com",
+    "category": "CRM",
+    "description": "Changelog",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.hubspot.com/changelog",
+        "note": "Changelog"
+      },
+      {
+        "url": "https://developers.hubspot.com/blog",
+        "note": "Blog"
+      },
+      {
+        "url": "https://developers.hubspot.com/docs",
+        "note": "Docs"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Slack",
+    "website": "https://api.slack.com",
+    "category": "Communications",
+    "description": "primary docs page",
+    "authMethod": "Unknown",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "minimal",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://api.slack.com",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "GitHub",
+    "website": "https://docs.github.com",
+    "category": "Developer Platform",
+    "description": "GitHub Docs",
+    "authMethod": "PAT",
+    "selfServe": "Yes",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.github.com/en",
+        "note": "GitHub Docs"
+      },
+      {
+        "url": "https://docs.github.com/en/get-started",
+        "note": "Get started"
+      },
+      {
+        "url": "https://docs.github.com/en/migrations",
+        "note": "Migrations"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Stripe",
+    "website": "https://stripe.com/docs",
+    "category": "Fintech",
+    "description": "primary docs page",
+    "authMethod": "Unknown",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "minimal",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://stripe.com/docs",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Notion",
+    "website": "https://developers.notion.com",
+    "category": "Productivity",
+    "description": "primary docs page",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.notion.com",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Salesforce",
+    "website": "https://developer.salesforce.com",
+    "category": "CRM",
+    "description": "Read blog",
+    "authMethod": "API Key",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.salesforce.com/blogs/2026/07/announcing-the-headless-360-mcp-server-beta",
+        "note": "Read blog"
+      },
+      {
+        "url": "https://developer.salesforce.com/blogs/2026/07/build-with-react-on-salesforce-multi-framework-is-now-ga",
+        "note": ""
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Jira",
+    "website": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/",
+    "category": "",
+    "description": "Developer",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.atlassian.com/",
+        "note": "Developer"
+      },
+      {
+        "url": "https://developer.atlassian.com/news-and-updates/",
+        "note": "News and Updates"
+      },
+      {
+        "url": "https://developer.atlassian.com/support",
+        "note": "Get Support"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Confluence",
+    "website": "https://developer.atlassian.com/cloud/confluence/rest/v2/intro/",
+    "category": "",
+    "description": "Developer",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.atlassian.com/",
+        "note": "Developer"
+      },
+      {
+        "url": "https://developer.atlassian.com/news-and-updates/",
+        "note": "News and Updates"
+      },
+      {
+        "url": "https://developer.atlassian.com/support",
+        "note": "Get Support"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Trello",
+    "website": "https://developer.atlassian.com/cloud/trello/",
+    "category": "",
+    "description": "Developer",
+    "authMethod": "API Key",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.atlassian.com/",
+        "note": "Developer"
+      },
+      {
+        "url": "https://developer.atlassian.com/news-and-updates/",
+        "note": "News and Updates"
+      },
+      {
+        "url": "https://developer.atlassian.com/support",
+        "note": "Get Support"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Linear",
+    "website": "https://developers.linear.app/docs",
+    "category": "",
+    "description": "Developers",
+    "authMethod": "OAuth2",
+    "selfServe": "Yes",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.linear.app/homepage",
+        "note": ""
+      },
+      {
+        "url": "https://developers.linear.app/developers",
+        "note": "Developers"
+      },
+      {
+        "url": "https://developers.linear.app/signup",
+        "note": "Sign up"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Asana",
+    "website": "https://developers.asana.com",
+    "category": "",
+    "description": "Home",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://asana.com/developers",
+        "note": ""
+      },
+      {
+        "url": "https://developers.asana.com/",
+        "note": "Home"
+      },
+      {
+        "url": "https://developers.asana.com/docs",
+        "note": "Guides"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Airtable",
+    "website": "https://airtable.com/developers/web/api",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://airtable.com/developers/web/api",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Monday",
+    "website": "https://developer.monday.com/api-reference",
+    "category": "",
+    "description": "Home",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.monday.com/",
+        "note": ""
+      },
+      {
+        "url": "https://developer.monday.com/api-reference/",
+        "note": "Home"
+      },
+      {
+        "url": "https://developer.monday.com/api-reference/docs",
+        "note": "Guides"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "ClickUp",
+    "website": "https://clickup.com/api",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://clickup.com/api",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Zendesk",
+    "website": "https://developer.zendesk.com",
+    "category": "",
+    "description": ".cls-1{fill:#00363d;}zendev_horizontal",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.zendesk.com/",
+        "note": ".cls-1{fill:#00363d;}zendev_horizontal"
+      },
+      {
+        "url": "https://developer.zendesk.com/documentation/",
+        "note": "Documentation"
+      },
+      {
+        "url": "https://developer.zendesk.com/api-reference/",
+        "note": "API Reference"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Intercom",
+    "website": "https://developers.intercom.com",
+    "category": "",
+    "description": "Installation",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.intercom.com/",
+        "note": ""
+      },
+      {
+        "url": "https://developers.intercom.com/installing-intercom",
+        "note": "Installation"
+      },
+      {
+        "url": "https://developers.intercom.com/docs",
+        "note": "Docs"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Freshdesk",
+    "website": "https://developers.freshdesk.com",
+    "category": "",
+    "description": "Core APIs",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.freshdesk.com/",
+        "note": ""
+      },
+      {
+        "url": "https://developers.freshdesk.com/api/",
+        "note": "Core APIs"
+      },
+      {
+        "url": "https://developers.freshdesk.com/v2/docs/quick-start/",
+        "note": "App SDK"
+      }
+    ],
+    "confidence": 95
+  },
+  {
+    "name": "Twilio",
+    "website": "https://www.twilio.com/docs",
+    "category": "",
+    "description": ".css-1lgr57j{box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-text-decoration:inherit;text-decoration:inherit;opacity:1;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-column-gap:0.25rem;column-gap:0.25rem;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}.css-pe4vrq{box-sizing:border-box;line-height:0;display:block;color:currentColor;width:1.25rem;height:1.25rem;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}Go to the Twilio Docs home page",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.twilio.com/docs",
+        "note": ".css-1lgr57j{box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-text-decoration:inherit;text-decoration:inherit;opacity:1;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-column-gap:0.25rem;column-gap:0.25rem;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}.css-pe4vrq{box-sizing:border-box;line-height:0;display:block;color:currentColor;width:1.25rem;height:1.25rem;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}Go to the Twilio Docs home page"
+      },
+      {
+        "url": "https://www.twilio.com/docs/usage",
+        "note": ".css-qxhhlx{box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;-webkit-column-gap:0.25rem;column-gap:0.25rem;-webkit-transition:all 120ms ease;transition:all 120ms ease;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;float:none;opacity:1;white-space:normal;}General usage"
+      },
+      {
+        "url": "https://www.twilio.com/docs/global-infrastructure",
+        "note": "Global infrastructure"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "SendGrid",
+    "website": "https://www.twilio.com/docs/sendgrid",
+    "category": "",
+    "description": ".css-1lgr57j{box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-text-decoration:inherit;text-decoration:inherit;opacity:1;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-column-gap:0.25rem;column-gap:0.25rem;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}.css-pe4vrq{box-sizing:border-box;line-height:0;display:block;color:currentColor;width:1.25rem;height:1.25rem;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}Go to the Twilio SendGrid Docs home page",
+    "authMethod": "API Key",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.twilio.com/docs/sendgrid",
+        "note": ".css-1lgr57j{box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-text-decoration:inherit;text-decoration:inherit;opacity:1;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-column-gap:0.25rem;column-gap:0.25rem;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}.css-pe4vrq{box-sizing:border-box;line-height:0;display:block;color:currentColor;width:1.25rem;height:1.25rem;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}Go to the Twilio SendGrid Docs home page"
+      },
+      {
+        "url": "https://www.twilio.com/docs/sendgrid/concepts",
+        "note": "Email concepts"
+      },
+      {
+        "url": "https://www.twilio.com/docs/sendgrid/onboarding",
+        "note": "SendGrid Onboarding Guides"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Mailchimp",
+    "website": "https://mailchimp.com/developer/",
+    "category": "",
+    "description": "Mailchimp Marketing API",
+    "authMethod": "API Key",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Hard",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://mailchimp.com/developer/",
+        "note": ""
+      },
+      {
+        "url": "https://mailchimp.com/developer/marketing/",
+        "note": "Mailchimp Marketing API"
+      },
+      {
+        "url": "https://mailchimp.com/developer/transactional/",
+        "note": "Mailchimp Transactional"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Marketo",
+    "website": "https://developers.marketo.com",
+    "category": "",
+    "description": "Documentation",
+    "authMethod": "Unknown",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "minimal",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.marketo.com/en/docs",
+        "note": "Documentation"
+      },
+      {
+        "url": "https://developers.marketo.com/en/docs/marketo-developer/marketo/home",
+        "note": "Marketo Developer Guide"
+      },
+      {
+        "url": "https://developers.marketo.com/en/docs/marketo-developer/marketo/getting-started",
+        "note": "Getting Started"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Pardot",
+    "website": "https://developer.salesforce.com/docs/marketing/pardot/overview",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.salesforce.com/docs/marketing/pardot/overview",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Typeform",
+    "website": "https://developer.typeform.com",
+    "category": "",
+    "description": "Developers",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.typeform.com/developers/",
+        "note": "Developers"
+      },
+      {
+        "url": "https://developer.typeform.com/developers/get-started/",
+        "note": "Documentation"
+      },
+      {
+        "url": "https://developer.typeform.com/developers/community/",
+        "note": "Community"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "SurveyMonkey",
+    "website": "https://developer.surveymonkey.com",
+    "category": "",
+    "description": "Get Started",
+    "authMethod": "PAT",
+    "selfServe": "Yes",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.surveymonkey.com/user/sign-in/?ep=%2Fdeveloper%2F&amp;ut_source=dev_portal&amp;ut_source2=header",
+        "note": "Get Started"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Qualtrics",
+    "website": "https://api.qualtrics.com",
+    "category": "",
+    "description": "Instructions",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://api.qualtrics.com/",
+        "note": ""
+      },
+      {
+        "url": "https://api.qualtrics.com/ZG9jOjg3NjY0Mg-overview",
+        "note": "Instructions"
+      },
+      {
+        "url": "https://api.qualtrics.com/ZG9jOjg3NjYzMQ-overview",
+        "note": "Guides"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Dropbox",
+    "website": "https://www.dropbox.com/developers",
+    "category": "",
+    "description": "DocSendSend documents securely and track activity",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.dropbox.com/docsend",
+        "note": "DocSendSend documents securely and track activity"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Google Drive",
+    "website": "https://developers.google.com/drive/api",
+    "category": "",
+    "description": "Google Drive",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.google.com/workspace",
+        "note": ""
+      },
+      {
+        "url": "https://developers.google.com/workspace/drive",
+        "note": "Google Drive"
+      },
+      {
+        "url": "https://developers.google.com/workspace/products-menu",
+        "note": "All products"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "OneDrive",
+    "website": "https://learn.microsoft.com/en-us/graph/overview?view=graph-rest-1.0",
+    "category": "",
+    "description": "Edit",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://github.com/microsoftgraph/microsoft-graph-docs-contrib/blob/main/concepts/overview.md",
+        "note": "Edit"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Box",
+    "website": "https://developer.box.com",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.box.com",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Google Calendar",
+    "website": "https://developers.google.com/calendar/api",
+    "category": "",
+    "description": "Google Calendar",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.google.com/workspace",
+        "note": ""
+      },
+      {
+        "url": "https://developers.google.com/workspace/calendar",
+        "note": "Google Calendar"
+      },
+      {
+        "url": "https://developers.google.com/workspace/products-menu",
+        "note": "All products"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Microsoft Outlook",
+    "website": "https://learn.microsoft.com/en-us/graph/overview",
+    "category": "",
+    "description": "Edit",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://github.com/microsoftgraph/microsoft-graph-docs-contrib/blob/main/concepts/overview.md",
+        "note": "Edit"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Zoom",
+    "website": "https://developers.zoom.us",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "minimal",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.zoom.us",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Google Meet",
+    "website": "https://developers.google.com/meet",
+    "category": "",
+    "description": "Google Meet",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.google.com/workspace",
+        "note": ""
+      },
+      {
+        "url": "https://developers.google.com/workspace/meet",
+        "note": "Google Meet"
+      },
+      {
+        "url": "https://developers.google.com/workspace/products-menu",
+        "note": "All products"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Microsoft Teams",
+    "website": "https://learn.microsoft.com/en-us/microsoftteams/platform/",
+    "category": "",
+    "description": "Microsoft Teams Dev Center",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.microsoft.com/en-us/microsoft-teams",
+        "note": "Microsoft Teams Dev Center"
+      },
+      {
+        "url": "https://developer.microsoft.com/en-us/microsoft-teams/app-development-resources",
+        "note": "App development resources"
+      },
+      {
+        "url": "https://developer.microsoft.com/en-us/microsoft-teams/app-publishing",
+        "note": "App publishing"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Discord",
+    "website": "https://discord.com/developers/docs",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://discord.com/developers/docs",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Figma",
+    "website": "https://www.figma.com/developers",
+    "category": "",
+    "description": "Developers",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.figma.com/",
+        "note": "Developers"
+      },
+      {
+        "url": "https://www.figma.com/compare-apis/",
+        "note": "Compare APIs"
+      },
+      {
+        "url": "https://www.figma.com/developers/apps",
+        "note": "My Apps"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Miro",
+    "website": "https://developers.miro.com",
+    "category": "",
+    "description": "Documentation",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.miro.com/",
+        "note": ""
+      },
+      {
+        "url": "https://developers.miro.com/docs",
+        "note": "Documentation"
+      },
+      {
+        "url": "https://developers.miro.com/docs/resources",
+        "note": "Resources"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Canva",
+    "website": "https://www.canva.com/developers",
+    "category": "",
+    "description": "Chrome",
+    "authMethod": "Unknown",
+    "selfServe": "Partial",
+    "apiSurface": "Unknown",
+    "apiBreadth": "minimal",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Unknown",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.google.com/chrome/",
+        "note": "Chrome"
+      },
+      {
+        "url": "https://www.firefox.com",
+        "note": "Firefox"
+      },
+      {
+        "url": "https://www.apple.com/safari/",
+        "note": "Safari(macOS only)"
+      }
+    ],
+    "confidence": 60
+  },
+  {
+    "name": "Shopify",
+    "website": "https://shopify.dev/docs/api",
+    "category": "",
+    "description": "Apps",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://shopify.dev/docs",
+        "note": ""
+      },
+      {
+        "url": "https://shopify.dev/docs/apps/build",
+        "note": "Apps"
+      },
+      {
+        "url": "https://shopify.dev/docs/storefronts",
+        "note": "Storefronts"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "WooCommerce",
+    "website": "https://woocommerce.com/documentation/woocommerce-rest-api/",
+    "category": "",
+    "description": "",
+    "authMethod": "",
+    "selfServe": "",
+    "apiSurface": "",
+    "apiBreadth": "",
+    "mcpAvailable": "",
+    "buildabilityVerdict": "",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://woocommerce.com/documentation/woocommerce-rest-api/",
+        "note": "failed to fetch full content"
+      }
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "BigCommerce",
+    "website": "https://developer.bigcommerce.com",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "Bearer Token",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.bigcommerce.com",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "PayPal",
+    "website": "https://developer.paypal.com/docs",
+    "category": "",
+    "description": "Business",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.paypal.com/",
+        "note": ""
+      },
+      {
+        "url": "https://developer.paypal.com/get-started",
+        "note": "Business"
+      },
+      {
+        "url": "https://developer.paypal.com/platforms/overview",
+        "note": "Platforms and marketplacesPlatforms"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Square",
+    "website": "https://developer.squareup.com/docs",
+    "category": "",
+    "description": "Sign In",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.squareup.com",
+        "note": ""
+      },
+      {
+        "url": "https://squareup.com/login?app=developer&return_to=https://developer.squareup.com/apps",
+        "note": "Sign In"
+      },
+      {
+        "url": "https://developer.squareup.com/docs",
+        "note": "Docs Home"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Plaid",
+    "website": "https://plaid.com/docs",
+    "category": "",
+    "description": "Docs",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://plaid.com/docs/",
+        "note": "Docs"
+      },
+      {
+        "url": "https://plaid.com/docs/quickstart/",
+        "note": "Quickstart"
+      },
+      {
+        "url": "https://plaid.com/docs/api/",
+        "note": "API"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "QuickBooks",
+    "website": "https://developer.intuit.com/app/developer/qbo/docs/api/accounting",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.intuit.com/app/developer/qbo/docs/api/accounting",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Xero",
+    "website": "https://developer.xero.com/",
+    "category": "",
+    "description": "2026 App Awards",
+    "authMethod": "OAuth2",
+    "selfServe": "Yes",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.xero.com/",
+        "note": ""
+      },
+      {
+        "url": "https://developer.xero.com/global-app-awards-2026",
+        "note": "2026 App Awards"
+      },
+      {
+        "url": "https://www.xero.com/signup/developers/",
+        "note": "Sign up"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "FreshBooks",
+    "website": "https://www.freshbooks.com/api",
+    "category": "",
+    "description": "Login",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://auth.freshbooks.com/service/auth/integrations/sign_in?_gl=1*y5hk91*_gcl_au*MTg5MjcyNjY1NC4xNzExOTc4MDAx*_ga*MTc4MDg0MTQ4OS4xNjg5NzcyNDcy*_ga_LNDHWTHSMK*MTcxOTU3ODM5Ni4yNTkuMC4xNzE5NTc4Mzk2LjYwLjAuMA..",
+        "note": "Login"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "BambooHR",
+    "website": "https://documentation.bamboohr.com",
+    "category": "",
+    "description": "API Reference",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://documentation.bamboohr.com/docs",
+        "note": ""
+      },
+      {
+        "url": "https://documentation.bamboohr.com/reference",
+        "note": "API Reference"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Lever",
+    "website": "https://hire.lever.co/developers",
+    "category": "",
+    "description": "Sign in with Google",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "minimal",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Unknown",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://hire.lever.co/auth/provider/google2?continue=%2Fdevelopers",
+        "note": "Sign in with Google"
+      },
+      {
+        "url": "https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes",
+        "note": "Google API Services User Data Policy"
+      },
+      {
+        "url": "https://hire.eu.lever.co/auth/login?continue=%2Fdevelopers",
+        "note": "Switch to EU instance"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Greenhouse",
+    "website": "https://developers.greenhouse.io/",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "Unknown",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Unknown",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.greenhouse.io/",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Workable",
+    "website": "https://workable.com/api",
+    "category": "",
+    "description": "",
+    "authMethod": "",
+    "selfServe": "",
+    "apiSurface": "",
+    "apiBreadth": "",
+    "mcpAvailable": "",
+    "buildabilityVerdict": "",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://workable.com/api",
+        "note": "failed to fetch full content"
+      }
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "MongoDB Atlas",
+    "website": "https://www.mongodb.com/docs/atlas/",
+    "category": "",
+    "description": "AtlasBuild and scale with an AI-ready platform",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.mongodb.com",
+        "note": ""
+      },
+      {
+        "url": "https://www.mongodb.com/atlas",
+        "note": "AtlasBuild and scale with an AI-ready platform"
+      },
+      {
+        "url": "https://www.mongodb.com/products/platform/atlas-database",
+        "note": "DatabaseDeploy a multi-cloud database"
+      }
+    ],
+    "confidence": 60
+  },
+  {
+    "name": "Snowflake",
+    "website": "https://docs.snowflake.com/en/developer-guide",
+    "category": "",
+    "description": "",
+    "authMethod": "",
+    "selfServe": "",
+    "apiSurface": "",
+    "apiBreadth": "",
+    "mcpAvailable": "",
+    "buildabilityVerdict": "",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.snowflake.com/en/developer-guide",
+        "note": "failed to fetch full content"
+      }
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "BigQuery",
+    "website": "https://cloud.google.com/bigquery/docs",
+    "category": "",
+    "description": "Technology areas",
+    "authMethod": "API Key",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.cloud.google.com/docs",
+        "note": "Technology areas"
+      },
+      {
+        "url": "https://docs.cloud.google.com/docs/ai-ml",
+        "note": "AI and ML"
+      },
+      {
+        "url": "https://docs.cloud.google.com/docs/application-development",
+        "note": "Application development"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "PostHog",
+    "website": "https://posthog.com/docs/libraries",
+    "category": "",
+    "description": "Docs",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://posthog.com/docs",
+        "note": "Docs"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Mixpanel",
+    "website": "https://developer.mixpanel.com",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "Unknown",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Unknown",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.mixpanel.com",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Amplitude",
+    "website": "https://www.docs.developers.amplitude.com",
+    "category": "",
+    "description": "Docs",
+    "authMethod": "API Key",
+    "selfServe": "Yes",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.docs.developers.amplitude.com/docs/en",
+        "note": "Docs"
+      },
+      {
+        "url": "https://www.docs.developers.amplitude.com/docs/en/get-started",
+        "note": "Get Started"
+      },
+      {
+        "url": "https://www.docs.developers.amplitude.com/docs/en/admin",
+        "note": "Admin"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Segment",
+    "website": "https://segment.com/docs",
+    "category": "",
+    "description": "",
+    "authMethod": "",
+    "selfServe": "",
+    "apiSurface": "",
+    "apiBreadth": "",
+    "mcpAvailable": "",
+    "buildabilityVerdict": "",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://segment.com/docs",
+        "note": "failed to fetch full content"
+      }
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "Heap",
+    "website": "https://developers.heap.io",
+    "category": "",
+    "description": "Developer Guides",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.heap.io/docs",
+        "note": "Developer Guides"
+      },
+      {
+        "url": "https://developers.heap.io/reference",
+        "note": "API Reference"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Hotjar",
+    "website": "https://help.hotjar.com/hc/en-us/categories/115000012788-API",
+    "category": "",
+    "description": "",
+    "authMethod": "",
+    "selfServe": "",
+    "apiSurface": "",
+    "apiBreadth": "",
+    "mcpAvailable": "",
+    "buildabilityVerdict": "",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://help.hotjar.com/hc/en-us/categories/115000012788-API",
+        "note": "failed to fetch full content"
+      }
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "Vercel",
+    "website": "https://vercel.com/docs",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://vercel.com/docs",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Netlify",
+    "website": "https://docs.netlify.com",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "Unknown",
+    "selfServe": "Partial",
+    "apiSurface": "Unknown",
+    "apiBreadth": "minimal",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Unknown",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.netlify.com",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Heroku",
+    "website": "https://devcenter.heroku.com",
+    "category": "",
+    "description": "Documentation",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://devcenter.heroku.com/categories/reference",
+        "note": "Documentation"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "GitLab",
+    "website": "https://docs.gitlab.com",
+    "category": "",
+    "description": "Go to GitLab Docs homepage",
+    "authMethod": "PAT",
+    "selfServe": "Yes",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.gitlab.com/",
+        "note": "Go to GitLab Docs homepage"
+      },
+      {
+        "url": "https://gitlab.com/-/trial_registrations/new?glm_source=docs.gitlab.com&amp;glm_content=navigation-cta-docs",
+        "note": "Get free trial"
+      },
+      {
+        "url": "https://docs.gitlab.com/user/get_started/",
+        "note": "Get started"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Bitbucket",
+    "website": "https://developer.atlassian.com/cloud/bitbucket/rest/intro/",
+    "category": "",
+    "description": "Developer",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.atlassian.com/",
+        "note": "Developer"
+      },
+      {
+        "url": "https://developer.atlassian.com/news-and-updates/",
+        "note": "News and Updates"
+      },
+      {
+        "url": "https://developer.atlassian.com/support",
+        "note": "Get Support"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Docker Hub",
+    "website": "https://docs.docker.com/docker-hub/api/latest/",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "Unknown",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Unknown",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.docker.com/docker-hub/api/latest/",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "npm",
+    "website": "https://docs.npmjs.com",
+    "category": "",
+    "description": "npm Docs",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.npmjs.com/",
+        "note": "npm Docs"
+      },
+      {
+        "url": "https://docs.npmjs.com/about-npm",
+        "note": "About npm"
+      },
+      {
+        "url": "https://docs.npmjs.com/creating-a-new-npm-user-account",
+        "note": "Creating a new user account on the public registry"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "PyPI",
+    "website": "https://warehouse.pypa.io/",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://warehouse.pypa.io/",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Hugging Face",
+    "website": "https://huggingface.co/docs/hub/en/api",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "Unknown",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Moderate",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://huggingface.co/docs/hub/en/api",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "OpenAI",
+    "website": "https://platform.openai.com/docs",
+    "category": "",
+    "description": "API",
+    "authMethod": "API Key",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://platform.openai.com/api/docs",
+        "note": "API"
+      },
+      {
+        "url": "https://learn.chatgpt.com/docs",
+        "note": "Codex"
+      },
+      {
+        "url": "https://platform.openai.com/codex",
+        "note": "Docs"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Anthropic",
+    "website": "https://docs.anthropic.com/en/api",
+    "category": "",
+    "description": "Claude Platform Docs",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.anthropic.com/docs/en/home",
+        "note": "Claude Platform Docs"
+      },
+      {
+        "url": "https://docs.anthropic.com/docs/en/intro",
+        "note": "Messages"
+      },
+      {
+        "url": "https://docs.anthropic.com/docs/en/managed-agents/overview",
+        "note": "Managed Agents"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Perplexity",
+    "website": "https://docs.perplexity.ai",
+    "category": "",
+    "description": "Agent API",
+    "authMethod": "API Key",
+    "selfServe": "Yes",
+    "apiSurface": "REST",
+    "apiBreadth": "minimal",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.perplexity.ai/docs/agent-api/quickstart",
+        "note": "Agent API"
+      },
+      {
+        "url": "https://docs.perplexity.ai/docs/agent-api/migrate-from-sonar/overview",
+        "note": "Migration Guide"
+      },
+      {
+        "url": "https://docs.perplexity.ai/docs/getting-started/quickstart",
+        "note": "Get Started"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Zapier",
+    "website": "https://zapier.com/developer/documentation",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "Unknown",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://zapier.com/developer/documentation",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Make",
+    "website": "https://www.make.com/en/api-documentation",
+    "category": "",
+    "description": "",
+    "authMethod": "",
+    "selfServe": "",
+    "apiSurface": "",
+    "apiBreadth": "",
+    "mcpAvailable": "",
+    "buildabilityVerdict": "",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.make.com/en/api-documentation",
+        "note": "failed to fetch full content"
+      }
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "Retool",
+    "website": "https://docs.retool.com",
+    "category": "",
+    "description": "Quickstart",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "Unknown",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.retool.com/build/apps/quickstart",
+        "note": "Quickstart"
+      },
+      {
+        "url": "https://docs.retool.com/build/apps/guides",
+        "note": "How-to"
+      },
+      {
+        "url": "https://docs.retool.com/build/apps/reference",
+        "note": "Reference"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Supabase",
+    "website": "https://supabase.com/docs/guides/api",
+    "category": "",
+    "description": "DOCS",
+    "authMethod": "API Key",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://supabase.com/docs",
+        "note": "DOCS"
+      },
+      {
+        "url": "https://supabase.com/docs/guides/getting-started",
+        "note": "Start"
+      },
+      {
+        "url": "https://supabase.com/docs/guides/api",
+        "note": "Data REST API"
+      }
+    ],
+    "confidence": 95
+  },
+  {
+    "name": "Google Sheets",
+    "website": "https://developers.google.com/sheets/api",
+    "category": "",
+    "description": "Google Sheets",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.google.com/workspace",
+        "note": ""
+      },
+      {
+        "url": "https://developers.google.com/workspace/sheets",
+        "note": "Google Sheets"
+      },
+      {
+        "url": "https://developers.google.com/workspace/products-menu",
+        "note": "All products"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Salesloft",
+    "website": "https://developers.salesloft.com",
+    "category": "",
+    "description": "for Developers",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Hard",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.salesloft.com/",
+        "note": "for Developers"
+      },
+      {
+        "url": "https://developers.salesloft.com/docs/platform/intro/",
+        "note": "Docs"
+      },
+      {
+        "url": "https://developers.salesloft.com/docs/api/",
+        "note": "API"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Outreach",
+    "website": "https://api.outreach.io/docs/",
+    "category": "",
+    "description": "",
+    "authMethod": "",
+    "selfServe": "",
+    "apiSurface": "",
+    "apiBreadth": "",
+    "mcpAvailable": "",
+    "buildabilityVerdict": "",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://api.outreach.io/docs/",
+        "note": "failed to fetch full content"
+      }
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "Datadog",
+    "website": "https://docs.datadoghq.com/api/",
+    "category": "",
+    "description": "https://docs.datadoghq.com/api/latest.md",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://docs.datadoghq.com/api/latest.md",
+        "note": "https://docs.datadoghq.com/api/latest.md"
+      },
+      {
+        "url": "https://docs.datadoghq.com/llms.txt",
+        "note": "/llms.txt"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "PagerDuty",
+    "website": "https://developer.pagerduty.com/docs/",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "Unknown",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Unknown",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.pagerduty.com/docs/",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "ServiceNow",
+    "website": "https://developer.servicenow.com/dev.do/",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "Unknown",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Unknown",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.servicenow.com/dev.do/",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Klaviyo",
+    "website": "https://developers.klaviyo.com/",
+    "category": "",
+    "description": "Home",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.klaviyo.com/",
+        "note": ""
+      },
+      {
+        "url": "https://developers.klaviyo.com/en/",
+        "note": "Home"
+      },
+      {
+        "url": "https://developers.klaviyo.com/en/docs",
+        "note": "Guides"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Brex",
+    "website": "https://developer.brex.com/",
+    "category": "",
+    "description": "Guides",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.brex.com/",
+        "note": ""
+      },
+      {
+        "url": "https://developer.brex.com/guides/quickstart",
+        "note": "Guides"
+      },
+      {
+        "url": "https://developer.brex.com/examples/onboarding_examples",
+        "note": "Examples"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Chargebee",
+    "website": "https://www.chargebee.com/docs/2.0/",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Unknown",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.chargebee.com/docs/2.0/",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Coda",
+    "website": "https://coda.io/developers",
+    "category": "",
+    "description": "API docs by Redocly",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://redocly.com/redoc/",
+        "note": "API docs by Redocly"
+      },
+      {
+        "url": "https://superhuman.com/developers",
+        "note": "https://superhuman.com/developers"
+      },
+      {
+        "url": "https://docs.superhuman.com/trust/developer",
+        "note": "Superhuman Developer Terms"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "DocuSign",
+    "website": "https://developers.docusign.com/",
+    "category": "",
+    "description": "primary docs page",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "Unknown",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Unknown",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.docusign.com/",
+        "note": "primary docs page"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Adobe Sign",
+    "website": "https://developer.adobe.com/document-services/docs/overview/",
+    "category": "",
+    "description": "PDF Embed API",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "SDK Only",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.adobe.com/document-services/docs/overview/pdf-embed-api/",
+        "note": "PDF Embed API"
+      },
+      {
+        "url": "https://developer.adobe.com/document-services/docs/overview/pdf-services-api/",
+        "note": "PDF Services API"
+      },
+      {
+        "url": "https://acrobatservices.adobe.com/dc-integration-creation-app-cdn/main.html?api=pdf-services-api",
+        "note": "Free Tier which includes 500 free Document Transactions per month."
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Jotform",
+    "website": "https://www.jotform.com/developers/",
+    "category": "",
+    "description": "Developers",
+    "authMethod": "PAT",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.jotform.com/developers/",
+        "note": "Developers"
+      },
+      {
+        "url": "https://api.jotform.com/docs/",
+        "note": "API"
+      },
+      {
+        "url": "https://www.jotform.com/developers/libraries/",
+        "note": "Libraries"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Braintree",
+    "website": "https://developer.paypal.com/braintree/docs",
+    "category": "",
+    "description": "Braintree a PayPal Service",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.paypal.com/braintree/docs/",
+        "note": "Braintree a PayPal Service"
+      },
+      {
+        "url": "https://developer.paypal.com/braintree/graphql/",
+        "note": "API & In-Person Docs"
+      },
+      {
+        "url": "https://developer.paypal.com/braintree/articles/",
+        "note": "Support Articles"
+      }
+    ],
+    "confidence": 95
+  },
+  {
+    "name": "Pipedrive",
+    "website": "https://developers.pipedrive.com/docs/api/v1",
+    "category": "",
+    "description": "Getting started",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.pipedrive.com/docs/api/v1",
+        "note": "Getting started"
+      },
+      {
+        "url": "https://developers.pipedrive.com/docs/api/v1/Activities",
+        "note": "Activities"
+      },
+      {
+        "url": "https://developers.pipedrive.com/docs/api/v1/ActivityFields",
+        "note": "Activity fields"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Calendly",
+    "website": "https://developer.calendly.com/",
+    "category": "",
+    "description": "REST API\n\n  \n    Integrate with the Calendly API\n  \n\n  \n    Programmatically book meetings and read and write Scheduling, Contacts, and Notetaker data.\n  \n\n  Explore the API reference →",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "limited",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.calendly.com/api-docs",
+        "note": "REST API\n\n  \n    Integrate with the Calendly API\n  \n\n  \n    Programmatically book meetings and read and write Scheduling, Contacts, and Notetaker data.\n  \n\n  Explore the API reference →"
+      },
+      {
+        "url": "https://developer.calendly.com/docs/mcp/calendly-mcp-server",
+        "note": "MCP\n\n  \n    Add scheduling to your AI apps\n  \n\n  \n    Bring scheduling actions into your AI apps through natural conversation, powered by Calendly MCP.\n  \n\n  Connect MCP server →"
+      },
+      {
+        "url": "https://developer.calendly.com/api-docs/overview/embedding/getting-started",
+        "note": "Embed\n\n  \n    Embed Calendly in your product\n  \n\n  \n    Embed a scheduling page into your site or app. Choose from inline, popup, or button trigger styles, all with just a snippet of HTML.\n  \n\n  See embed options →"
+      }
+    ],
+    "confidence": 95
+  },
+  {
+    "name": "Apollo",
+    "website": "https://www.apollo.io/developers",
+    "category": "",
+    "description": "OutboundTurn hours of prospecting into minutes",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://www.apollo.io/",
+        "note": ""
+      },
+      {
+        "url": "https://www.apollo.io/solutions/outbound-sales-software",
+        "note": "OutboundTurn hours of prospecting into minutes"
+      },
+      {
+        "url": "https://www.apollo.io/solutions/inbound-lead-conversion",
+        "note": "InboundQualify and act on inbound leads in seconds"
+      }
+    ],
+    "confidence": 60
+  },
+  {
+    "name": "PandaDoc",
+    "website": "https://developers.pandadoc.com/",
+    "category": "",
+    "description": "Documentation",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.pandadoc.com/",
+        "note": ""
+      },
+      {
+        "url": "https://developers.pandadoc.com/docs",
+        "note": "Documentation"
+      },
+      {
+        "url": "https://developers.pandadoc.com/reference",
+        "note": "API Reference"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Gong",
+    "website": "https://developer.gong.io/",
+    "category": "",
+    "description": "",
+    "authMethod": "",
+    "selfServe": "",
+    "apiSurface": "",
+    "apiBreadth": "",
+    "mcpAvailable": "",
+    "buildabilityVerdict": "",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.gong.io/",
+        "note": "failed to fetch full content"
+      }
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "Hootsuite",
+    "website": "https://developer.hootsuite.com/",
+    "category": "",
+    "description": "iFrame SDK",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.hootsuite.com/docs",
+        "note": ""
+      },
+      {
+        "url": "https://apps.hootsuite.com/docs/sdk/4.1.1/index.html",
+        "note": "iFrame SDK"
+      },
+      {
+        "url": "https://apidocs.hootsuite.com/docs/api/index.html#section/Introduction",
+        "note": "Publish REST API"
+      }
+    ],
+    "confidence": 95
+  },
+  {
+    "name": "Buffer",
+    "website": "https://buf.io/",
+    "category": "",
+    "description": "",
+    "authMethod": "",
+    "selfServe": "",
+    "apiSurface": "",
+    "apiBreadth": "",
+    "mcpAvailable": "",
+    "buildabilityVerdict": "",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://buf.io/",
+        "note": "failed to fetch full content"
+      }
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "RingCentral",
+    "website": "https://developers.ringcentral.com/",
+    "category": "",
+    "description": "APIs  expand_more",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Unknown",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developers.ringcentral.com/",
+        "note": ""
+      },
+      {
+        "url": "https://developers.ringcentral.com/api-products",
+        "note": "APIs  expand_more"
+      },
+      {
+        "url": "https://developers.ringcentral.com/voice-api",
+        "note": "Overview"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Wix",
+    "website": "https://dev.wix.com/",
+    "category": "",
+    "description": "Overview",
+    "authMethod": "OAuth2",
+    "selfServe": "Partial",
+    "apiSurface": "REST + GraphQL",
+    "apiBreadth": "wide",
+    "mcpAvailable": "Yes",
+    "buildabilityVerdict": "Easy",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://dev.wix.com/docs/overview",
+        "note": "Overview"
+      },
+      {
+        "url": "https://dev.wix.com/docs/go-headless",
+        "note": "Go Headless"
+      },
+      {
+        "url": "https://dev.wix.com/docs/develop-websites",
+        "note": "Learn how"
+      }
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Cvent",
+    "website": "https://developer.cvent.com/",
+    "category": "",
+    "description": "",
+    "authMethod": "",
+    "selfServe": "",
+    "apiSurface": "",
+    "apiBreadth": "",
+    "mcpAvailable": "",
+    "buildabilityVerdict": "",
+    "mainBlocker": "",
+    "evidence": [
+      {
+        "url": "https://developer.cvent.com/",
+        "note": "failed to fetch full content"
+      }
+    ],
+    "confidence": 20
+  }
+]

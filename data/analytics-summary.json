@@ -1,0 +1,66 @@
+{
+  "totalApps": 100,
+  "authDistribution": {
+    "OAuth2": 38,
+    "API Key": 9,
+    "Basic Auth": 0,
+    "Token": 1,
+    "Other": 52
+  },
+  "selfServeDistribution": {
+    "Self Serve": 7,
+    "Partial": 93,
+    "Gated": 0
+  },
+  "apiTypes": {
+    "REST": 44,
+    "GraphQL": 24,
+    "Mixed": 0,
+    "Unknown": 32
+  },
+  "mcpDistribution": {
+    "Yes": 35,
+    "No": 65
+  },
+  "buildabilityDistribution": {
+    "Easy": 77,
+    "Moderate": 21,
+    "Hard": 2
+  },
+  "percentages": {
+    "auth": {
+      "OAuth2": 38,
+      "API Key": 9,
+      "Basic Auth": 0,
+      "Token": 1,
+      "Other": 52
+    },
+    "selfServe": {
+      "Self Serve": 7,
+      "Partial": 93,
+      "Gated": 0
+    },
+    "apiTypes": {
+      "REST": 44,
+      "GraphQL": 24,
+      "Mixed": 0,
+      "Unknown": 32
+    },
+    "mcp": {
+      "Yes": 35,
+      "No": 65
+    },
+    "build": {
+      "Easy": 77,
+      "Moderate": 21,
+      "Hard": 2
+    }
+  },
+  "topFindings": [
+    "Other authentication methods account for 52% of researched apps.",
+    "93% of platforms provide only partial self-service onboarding.",
+    "REST APIs are the dominant integration surface (44%).",
+    "65% of researched platforms did not expose MCP support.",
+    "77% of platforms were classified as Easy to integrate."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "composio-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "research": "node research-agent.js",
+    "verify": "node verify-agent.js",
+    "analytics": "node analytics.js",
+    "build": "node generate-html.js",
+    "test": "echo \"No automated tests configured\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "AI App Research Automation",
+  "dependencies": {
+    "@composio/core": "^0.16.0",
+    "@mendable/firecrawl-js": "^1.21.1",
+    "axios": "^1.19.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "firecrawl": "^1.21.1",
+    "json2csv": "^6.0.0-alpha.2",
+    "openai": "^6.49.0"
+  }
+}

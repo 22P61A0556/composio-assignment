@@ -1,0 +1,728 @@
+[
+  {
+    "name": "HubSpot",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Slack",
+    "passed": false,
+    "issues": [
+      "unknown auth method: Unknown"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "GitHub",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Stripe",
+    "passed": false,
+    "issues": [
+      "unknown auth method: Unknown"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Notion",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Salesforce",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Jira",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Confluence",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Trello",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Linear",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Asana",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Airtable",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Monday",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "ClickUp",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Zendesk",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Intercom",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Freshdesk",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 95
+  },
+  {
+    "name": "Twilio",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "SendGrid",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Mailchimp",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Marketo",
+    "passed": false,
+    "issues": [
+      "unknown auth method: Unknown"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Pardot",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Typeform",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "SurveyMonkey",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Qualtrics",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Dropbox",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Google Drive",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "OneDrive",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Box",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Google Calendar",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Microsoft Outlook",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Zoom",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Google Meet",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Microsoft Teams",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Discord",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Figma",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Miro",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Canva",
+    "passed": false,
+    "issues": [
+      "unknown auth method: Unknown"
+    ],
+    "confidence": 60
+  },
+  {
+    "name": "Shopify",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "WooCommerce",
+    "passed": false,
+    "issues": [
+      "missing description",
+      "unknown auth method: empty",
+      "invalid selfServe value: empty"
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "BigCommerce",
+    "passed": false,
+    "issues": [
+      "unknown auth method: Bearer Token"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "PayPal",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Square",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Plaid",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "QuickBooks",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Xero",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "FreshBooks",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "BambooHR",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Lever",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Greenhouse",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Workable",
+    "passed": false,
+    "issues": [
+      "missing description",
+      "unknown auth method: empty",
+      "invalid selfServe value: empty"
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "MongoDB Atlas",
+    "passed": true,
+    "issues": [],
+    "confidence": 60
+  },
+  {
+    "name": "Snowflake",
+    "passed": false,
+    "issues": [
+      "missing description",
+      "unknown auth method: empty",
+      "invalid selfServe value: empty"
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "BigQuery",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "PostHog",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Mixpanel",
+    "passed": false,
+    "issues": [
+      "unknown auth method: Unknown"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Amplitude",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Segment",
+    "passed": false,
+    "issues": [
+      "missing description",
+      "unknown auth method: empty",
+      "invalid selfServe value: empty"
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "Heap",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Hotjar",
+    "passed": false,
+    "issues": [
+      "missing description",
+      "unknown auth method: empty",
+      "invalid selfServe value: empty"
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "Vercel",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Netlify",
+    "passed": false,
+    "issues": [
+      "unknown auth method: Unknown"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Heroku",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "GitLab",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Bitbucket",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Docker Hub",
+    "passed": false,
+    "issues": [
+      "unknown auth method: Unknown"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "npm",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "PyPI",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Hugging Face",
+    "passed": false,
+    "issues": [
+      "unknown auth method: Unknown"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "OpenAI",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Anthropic",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Perplexity",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Zapier",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Make",
+    "passed": false,
+    "issues": [
+      "missing description",
+      "unknown auth method: empty",
+      "invalid selfServe value: empty"
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "Retool",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Supabase",
+    "passed": true,
+    "issues": [],
+    "confidence": 95
+  },
+  {
+    "name": "Google Sheets",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Salesloft",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Outreach",
+    "passed": false,
+    "issues": [
+      "missing description",
+      "unknown auth method: empty",
+      "invalid selfServe value: empty"
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "Datadog",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "PagerDuty",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "ServiceNow",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Klaviyo",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Brex",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Chargebee",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Coda",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "DocuSign",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Adobe Sign",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Jotform",
+    "passed": false,
+    "issues": [
+      "unknown auth method: PAT"
+    ],
+    "confidence": 80
+  },
+  {
+    "name": "Braintree",
+    "passed": true,
+    "issues": [],
+    "confidence": 95
+  },
+  {
+    "name": "Pipedrive",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Calendly",
+    "passed": true,
+    "issues": [],
+    "confidence": 95
+  },
+  {
+    "name": "Apollo",
+    "passed": true,
+    "issues": [],
+    "confidence": 60
+  },
+  {
+    "name": "PandaDoc",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Gong",
+    "passed": false,
+    "issues": [
+      "missing description",
+      "unknown auth method: empty",
+      "invalid selfServe value: empty"
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "Hootsuite",
+    "passed": true,
+    "issues": [],
+    "confidence": 95
+  },
+  {
+    "name": "Buffer",
+    "passed": false,
+    "issues": [
+      "missing description",
+      "unknown auth method: empty",
+      "invalid selfServe value: empty"
+    ],
+    "confidence": 20
+  },
+  {
+    "name": "RingCentral",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Wix",
+    "passed": true,
+    "issues": [],
+    "confidence": 80
+  },
+  {
+    "name": "Cvent",
+    "passed": false,
+    "issues": [
+      "missing description",
+      "unknown auth method: empty",
+      "invalid selfServe value: empty"
+    ],
+    "confidence": 20
+  }
+]
